@@ -546,7 +546,7 @@ footer #head
 
     #worldconfirmed #confirmed,#recovered,#deaths,#indconfirmed,#indactive,#indrecovered,#inddeaths,#stateconfirmed,#stateactive,#staterecovered,#statedeaths
     {
-        font-size: 10px;
+        font-size: 9px;
         font-weight: 750;
         margin: 0;
         line-height: 2;
